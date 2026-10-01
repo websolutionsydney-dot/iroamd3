@@ -39,7 +39,7 @@ export default function Header({ currentPath, onNavigate }: HeaderProps) {
             <img
               src="/images/logos/iroamd3-logo.png"
               alt="Iroamd3"
-              className="h-16 md:h-20 w-auto"
+              className="h-28 md:h-36 w-auto"
             />
           </button>
 
